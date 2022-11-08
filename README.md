@@ -1,5 +1,5 @@
 ### Hola a todos 👋
-### Sou estudiante en la Universidad de La Laguna
+### Soy estudiante en la Universidad de La Laguna
 ### Soy graduando en Biología
 ### He complementado estos estudios con un Máster en Biomedicina
 ### Actualmente estoy estudiando un Máster en Formación del Profesorado con el objetivo de sacar oposiciones y dedicarme a la enseñanza
